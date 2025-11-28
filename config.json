@@ -1,0 +1,7 @@
+﻿{
+  "Altex_URL": "https://www.altex.ro/",
+  "EmailTo": "raport.rpa@example.com",
+  "OutputFolder": "Output",
+  "TimeoutMilisecunde": 5000,
+	"Input": "TestData\\input1.pdf"
+}
